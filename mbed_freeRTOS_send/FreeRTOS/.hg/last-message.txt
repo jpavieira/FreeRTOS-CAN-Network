@@ -1,0 +1,1 @@
+queue implementada com accelarometro e pot a enviar para o can -  ainda nao testado
